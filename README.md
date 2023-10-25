@@ -22,7 +22,8 @@ My credentials include training in systems analysis and development and courses 
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Projeto1:** link
+* **Projeto1:** [dados aibnb](https://github.com/JamesFelipe/projetos_data_science/blob/main/0_Analisando_Dados_do_Rio_de_Janeiro.ipynb)https://github.com/JamesFelipe/projetos_data_science/blob/main/0_Analisando_Dados_do_Rio_de_Janeiro.ipynb
+  * Aqui faço uma análise superficial sobre os dados do airbnb
 * **Projeto2:** link
 
 ---
